@@ -6,7 +6,7 @@ To represent any one real-world problem in MDP form.
 ## PROBLEM STATEMENT:
 
 ### Problem Description :
-Plants are important due to its various beneficial factors. So it is necessary to take care of them. With reinforcement learning we can train a agent to ensure the growth of a saplings.
+Plants are important due to its various beneficial factors. So it is necessary to take care of them. With reinforcement learning we can train a agent to ensure the growth of a saplings.</br>
 ![image](https://github.com/Jovita08/mdp-representation/assets/94174503/7dedc3d6-eeab-4985-b2f1-12256e9274b7)
 
 ### State Space :
