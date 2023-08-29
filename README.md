@@ -1,4 +1,3 @@
-### EX NO : 01
 # <p align="center">MDP REPRESENTATION</p>
 
 ## AIM:
