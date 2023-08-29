@@ -1,37 +1,46 @@
-# MDP REPRESENTATION
+# <p align="center">MDP REPRESENTATION</p>
 
 ## AIM:
-Write your aim here
+To represent any one real-world problem in MDP form.
 
 ## PROBLEM STATEMENT:
 
-### Problem Description
-Write your answer here
+### Problem Description :
+Plants are important due to its various beneficial factors. So it is necessary to take care of them. With reinforcement learning we can train a agent to ensure the growth of a saplings.
 
-### State Space
-Write your answer here
+### State Space :
+{Dead, Sapling, Plant}
 
-### Sample State
-Write your answer here
+### Sample State :
+Sapling
 
-### Action Space
-Write your answer here
+### Action Space :
+{Pouring water on regular interval, not pouring water}
 
-### Sample Action
-Write your answer here
+### Sample Action : 
+Pouring water on regular interval
 
-### Reward Function
-Write your answer here
+### Reward Function :
++1-on pouring water regularly, 0-otherwise
 
-### Graphical Representation
-Write your answer here
+### Graphical Representation :
+
+
 
 ## PYTHON REPRESENTATION:
-Write your code here
-
+Developed By : **Virgil Jovita A**
+</br>
+Register No. : **212221240062**
+```py
+P={0: {0: [(1.0, 0, 0.0, True)],
+       1: [(1.0, 0, 0.0, True)]},
+   1: {0: [(1.0, 0, 0.0, True)],
+       1: [(1.0, 2, 1.0, True)]},
+   2: {0: [(1.0, 2, 0.0, True)],
+       1: [(1.0, 2, 0.0, True)]}}
+```
 ## OUTPUT:
-Write your Python output here
+![image](https://github.com/NITHISHKUMAR-P/mdp-representation/assets/93427017/690df3c9-9d9e-4a32-b420-076aacb656e2)
 
 ## RESULT:
-Write your output here
-
+Thus, a real-world problem is represented in MDP form.
